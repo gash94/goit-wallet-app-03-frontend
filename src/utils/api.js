@@ -3,7 +3,7 @@ import Cookies from 'js-cookie';
 import { WalletInstance } from './authUtils';
 
 import { cookieOptions } from './authUtils';
-export const API_URL = 'https://walletapp-uvvc.onrender.com/api';
+export const API_URL = 'https://walletapp-vzv4.onrender.com/api';
 setAuthToken();
 
 export const registerUser = async userData => {

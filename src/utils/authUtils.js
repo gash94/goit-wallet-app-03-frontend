@@ -2,7 +2,7 @@ import axios from 'axios';
 import Cookies from 'js-cookie';
 import { resetSession } from 'redux/slices/sessionSlice';
 
-export const API_URL = 'https://walletapp-uvvc.onrender.com/api';
+export const API_URL = 'https://walletapp-vzv4.onrender.com/api';
 
 const WalletInstance = axios.create();
 export { WalletInstance };
